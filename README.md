@@ -14,3 +14,4 @@ This includes setting up appropriate augmnetaions that can be made and the DataG
 | :---: | :---: | :---: |
 | VGG19  | 13.9%  | 4.8% |
 | ResNet50  | 92.7%  | 41.6% |
+| InceptionV3  | 94.8%  | 42.7% |
