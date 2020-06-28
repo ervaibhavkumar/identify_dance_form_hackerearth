@@ -13,3 +13,4 @@ This includes setting up appropriate augmnetaions that can be made and the DataG
 | Model | Training Accuracy | Validation Accuracy |
 | :---: | :---: | :---: |
 | VGG19  | 13.9%  | 4.8% |
+| ResNet50  | 92.7%  | 41.6% |
