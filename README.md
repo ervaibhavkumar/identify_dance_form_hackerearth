@@ -3,10 +3,13 @@ This repository contains code related to hackerearth deep learning challenge - I
 
 This includes setting up appropriate augmnetaions that can be made and the DataGenerator class that yields the appropriate images for the given batch size.
 
-## Augmentations used
+## Augmentations available
 - Rotation 
 - Scaling up 
 - Scaling down 
 - Horizontal flip 
 
 ## Deep learning models used
+| Model | Training Accuracy | Validation Accuracy |
+| :---: | :---: | :---: |
+| VGG19  | 13.9%  | 4.8% |
