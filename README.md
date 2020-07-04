@@ -17,3 +17,9 @@ This includes setting up appropriate augmnetaions that can be made and the DataG
 | InceptionV3  | 96.8%  | 65.2% |
 | InceptionResNetV2  | 94.2%  | 47.4% |
 | MobileNetV2  | 95.5%  | 13.9% |
+| InceptionV3 with callback and L1  | 96.6%  | 50.1% |
+
+## Test score hackerearth
+| Model | Testing Accuracy |
+| :---: | :---: |
+| InceptionV3 with callback and L1  | 61 |
