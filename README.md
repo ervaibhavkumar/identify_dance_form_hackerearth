@@ -3,6 +3,17 @@ This repository contains code related to hackerearth deep learning challenge - I
 
 This includes setting up appropriate augmnetaions that can be made and the DataGenerator class that yields the appropriate images for the given batch size.
 
+## Dance Forms
+1. Manipuri
+2. Bharatanatyam
+3. Odissi
+4. Kathakali
+5. Kathak
+6. Sattriya
+7. Kuchipudi
+8. Mohiniyattam
+
+
 ## Augmentations available
 - Rotation 
 - Scaling up 
@@ -18,8 +29,3 @@ This includes setting up appropriate augmnetaions that can be made and the DataG
 | InceptionResNetV2  | 94.2%  | 47.4% |
 | MobileNetV2  | 95.5%  | 13.9% |
 | InceptionV3 with callback and L1  | 96.6%  | 50.1% |
-
-## Test score hackerearth
-| Model | Testing Accuracy |
-| :---: | :---: |
-| InceptionV3 with callback and L1  | 61 |
