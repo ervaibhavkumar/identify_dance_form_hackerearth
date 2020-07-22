@@ -29,3 +29,4 @@ This includes setting up appropriate augmnetaions that can be made and the DataG
 | InceptionResNetV2  | 94.2%  | 47.4% |
 | MobileNetV2  | 95.5%  | 13.9% |
 | InceptionV3 with callback and L1  | 96.6%  | 50.1% |
+| DeXpression  | 98.7%  | 61.4% |
